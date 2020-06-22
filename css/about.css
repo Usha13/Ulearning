@@ -1,0 +1,105 @@
+@media screen and (min-width: 30rem){
+.explore-banner {
+    padding-top: 0;
+    padding-bottom: 0;
+}
+}
+.explore-banner {
+    text-align: center;
+    padding-top: .75rem;
+    padding-bottom: 24px;
+        background-color: lavender;
+}
+.explore-banner .contain {
+    margin-bottom: 2.5rem;
+ 
+}
+
+.contain--small {
+    padding-top: 48px;
+    padding-bottom: 48px;
+    margin: 0 auto;
+}
+
+.contain {
+    max-width: 73.75rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 48px 12px;
+}
+
+.contain, .contain--small {
+    max-width: 73.75rem;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 3rem .75rem;
+}
+
+.explore-banner__title {
+    padding-bottom: 24px;
+    font-weight: 600;
+    font-size: 30px;
+    max-width: 50rem;
+    margin: 0 auto;
+}
+
+.mission__statement{
+    border-radius: 0.375rem;
+    box-shadow: 0px 1px 20px 0px rgba(46, 61, 73, 0.2);
+    display: block;
+   padding: 50px;
+   margin: 80px 0px;
+   font-size: 20px;   
+    background: url('../img/missionbg.jpg');
+    background-size: cover;
+    color: white;
+  
+}
+
+
+.mission__photos--col1 img,.mission__photos--col2 img {
+    border-radius: 0.375rem;
+    margin-bottom: 20px;
+    width: 100%;
+    height: 200px;
+}
+.mission__photos--col2{
+	margin-top: 70px;
+}
+/*.mission {
+    position: relative;
+}
+.contain {
+    padding-top: 2rem;
+}
+
+.mission__photos{
+    float: left;
+    display: block;
+    margin-right: 1.69491525%;
+    width: 100%;
+}
+.mission__photos--col {
+   
+    width: 49.15254237%;
+}
+.mission__photos--col img {
+    border-radius: 0.375rem;
+    margin: 0;
+    max-width: 100%;
+    height: auto;
+}
+
+.mission__statement{
+    border-radius: 0.375rem;
+    box-shadow: 0px 1px 20px 0px rgba(46, 61, 73, 0.2);
+    float: left;
+    display: block;
+    margin-right: 1.69491525%;
+    width: 100%;
+    padding: 24px;
+   
+    background: url('../img/missionbg.jpg');
+    background-size: cover;
+  
+}*/

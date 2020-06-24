@@ -1788,8 +1788,29 @@ body.mobile-nav-active #mobile-nav-toggle {
 .home-banner-area {
   background: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)), url(../img/bg.jpg);
   background-size: cover;
+  background-attachment: fixed;
 
    }
+.about-area:before{
+  content: '';
+  width: 50%;
+  height: 100px;
+  position: absolute;
+  left: 0;
+  top: -35px;
+  background: white;
+  transform: skewY(6deg);
+}   
+.about-area:after{
+  content: '';
+  width: 50%;
+  height: 100px;
+  position: absolute;
+  top: -35px;
+  right: 0;
+  background: white;
+  transform: skewY(-6deg);
+} 
   @media (max-width: 767.98px) {
     .home-banner-area .fullscreen {
       height: 900px !important; } }

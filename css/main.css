@@ -1791,7 +1791,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background-attachment: fixed;
 
    }
-.about-area:before{
+.abt:before{
   content: '';
   width: 50%;
   height: 100px;
@@ -1801,7 +1801,7 @@ body.mobile-nav-active #mobile-nav-toggle {
   background: white;
   transform: skewY(6deg);
 }   
-.about-area:after{
+.abt:after{
   content: '';
   width: 50%;
   height: 100px;

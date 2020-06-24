@@ -23,7 +23,12 @@ Contact Page
 .contact-text ul li {
 	font-size: 17px;
 	font-weight: 600;
+	text-decoration: none;
 	margin-bottom: 10px;
+}
+.contact-text ul li a{
+	text-decoration: none;
+	color: #777777;
 }
 
 .contact-text ul li i {

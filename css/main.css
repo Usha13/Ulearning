@@ -2160,7 +2160,7 @@ body.mobile-nav-active #mobile-nav-toggle {
     position: relative; }
   .testimonials-area .owl-thumb-item img{
         border-radius: 50%;
-    width: 110px;
+   
     height: 110px;
   }
 
@@ -2178,7 +2178,7 @@ body.mobile-nav-active #mobile-nav-toggle {
       .testimonials-area .owl-thumb-item .overlay-grad:hover {
         opacity: .5;
         border-radius: 50%;
-        width: 110px;
+       
         height: 110px; }
 
 .testi-slider {

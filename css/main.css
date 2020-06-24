@@ -2994,9 +2994,13 @@ body.mobile-nav-active #mobile-nav-toggle {
 }
 .code{
       background: lavender;
-    width: 50%;
+    width: 90%;
     margin: 20px;
     padding: 20px;
+}
+.code img{
+  width: 90%;
+  max-height: 1000px;
 }
 .module{
     height: 50px;

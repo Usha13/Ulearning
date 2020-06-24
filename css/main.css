@@ -2968,13 +2968,14 @@ body.mobile-nav-active #mobile-nav-toggle {
     font-size: 17px;
 }
 .mod button{
-  border: 1px solid black;
+      border: 1px solid black;
     border-radius: 50%;
-    height: 25px;
-    display: flex;
-    align-items: center;
+    height: 35px;
+    width: 35px;
+    text-align: center;
     font-size: 25px;
     color: darkcyan;
+    padding: 0px;
 }
 .mod button:hover{
   border: 1px solid black;
